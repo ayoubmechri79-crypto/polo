@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# WhatsApp session data
+.wwebjs_auth/
+.wwebjs_auth_new/
+.wwebjs_cache/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files (will be set via Railway env vars)
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Firebase key (will be set via env var)
+serviceAccountKey.json
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts (will be built in Docker)
+frontend/dist/
