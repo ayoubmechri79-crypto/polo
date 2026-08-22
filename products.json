@@ -1,0 +1,997 @@
+[
+  {
+    "id": 101,
+    "name": "حبل مقاومة",
+    "nameAr": "حبل مقاومة",
+    "price": 1200,
+    "image": "https://reflaxball.netlify.app/images/حبل مقاومة1.jpeg",
+    "category": "home_calisthenics",
+    "desc": "حبل مقاومة بجودة عالية لتمارين رياضية بالمنزل 💪",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/حبل مقاومة1.jpeg",
+      "https://reflaxball.netlify.app/images/حبل مقاومة  .jpeg"
+    ],
+    "variants": [
+      {
+        "name": "أحمر (10kg)",
+        "price": 1200,
+        "color": "#ef4444"
+      },
+      {
+        "name": "أصفر (20kg)",
+        "price": 1500,
+        "color": "#eab308"
+      },
+      {
+        "name": "بنفسجي (25kg)",
+        "price": 1700,
+        "color": "#a855f7"
+      },
+      {
+        "name": "أخضر (30kg)",
+        "price": 2400,
+        "color": "#22c55e"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "داعم تمارين الضغط",
+    "nameAr": "داعم تمارين الضغط",
+    "price": 3700,
+    "image": "https://reflaxball.netlify.app/images/داعم تمرين الضغط .png",
+    "category": "home_calisthenics",
+    "desc": "لوح تمارين الضغط متعدد الأوضاع الرياضية 🏋️"
+  },
+  {
+    "id": 103,
+    "name": "Barre fixe portable",
+    "nameAr": "بارفيكس ثابت للباب",
+    "price": 2500,
+    "image": "https://reflaxball.netlify.app/images/بارفيكس ثابت للباب.jpeg",
+    "category": "home_calisthenics",
+    "desc": "بارفيكس ثابت ومحمول للباب باحترافية وتثبيت آمن 🚪",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/بارفيكس ثابت للباب.jpeg",
+      "https://reflaxball.netlify.app/images/بارفيكس ثابت للباب (2).jpeg"
+    ],
+    "variants": [
+      {
+        "name": "صغير (1m)",
+        "price": 2500,
+        "color": "#888888"
+      },
+      {
+        "name": "كبير (130cm)",
+        "price": 2700,
+        "color": "#333333"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "متوازي لDIPS",
+    "nameAr": "متوازي لDIPS",
+    "price": 3200,
+    "image": "https://reflaxball.netlify.app/images/1متوازي.jpeg",
+    "category": "home_calisthenics",
+    "desc": "متوازي لتمارين الديبس وضغط الكتف باحترافية 🔥",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/1متوازي.jpeg",
+      "https://reflaxball.netlify.app/images/متوازي .jpeg"
+    ],
+    "variants": [
+      {
+        "name": "صغير (100cm)",
+        "price": 4700,
+        "color": "#555555"
+      },
+      {
+        "name": "كبير (130cm)",
+        "price": 4700,
+        "color": "#111111"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Barre fixe parallel",
+    "nameAr": "بارفيكس + ابدو + متوازي",
+    "price": 4800,
+    "image": "https://reflaxball.netlify.app/images/بارفيكس + ابدو+  1متوازي .jpeg",
+    "category": "home_calisthenics",
+    "desc": "Barre fixe murale complète: Dips, Abdominaux et Tractions 🔥",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/بارفيكس + ابدو+  1متوازي .jpeg",
+      "https://reflaxball.netlify.app/images/بارفيكس + ابدو+ متوازي.jpeg",
+      "https://reflaxball.netlify.app/images/بارفيكس + ابدو+ متوازي  (2).jpeg"
+    ]
+  },
+  {
+    "id": 507,
+    "name": "Handgrip مقوي للسواعد",
+    "nameAr": "Handgrip مقوي للسواعد 165kg",
+    "price": 2200,
+    "image": "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-09 at 6.07.50 PM (2).jpeg",
+    "category": "home_calisthenics",
+    "desc": "Handgrip احترافي لتقوية قبضة اليد وعضلات السواعد حتى 165kg، مثالي للتمارين المنزلية 💪",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-09 at 6.07.50 PM (2).jpeg"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "حذاء كرة اليد",
+    "nameAr": "حذاء كرة اليد الداخلي",
+    "price": 6600,
+    "image": "https://reflaxball.netlify.app/images/WhatsApp Image 2026-05-15 at 4.16.29 PM.jpeg",
+    "category": "handball",
+    "desc": "حذاء داخلي مناسب لملاعب كرة اليد بثبات عالٍ 👟",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/WhatsApp Image 2026-05-15 at 4.16.29 PM.jpeg",
+      "https://reflaxball.netlify.app/images/WhatsApp Image 2026-05-15 at 4.16.29 PM (1).jpeg",
+      "https://reflaxball.netlify.app/images/WhatsApp Image 2026-05-15 at 4.16.29 PM (2).jpeg",
+      "https://reflaxball.netlify.app/images/WhatsApp Image 2026-05-15 at 4.16.29 PM (3).jpeg",
+      "https://reflaxball.netlify.app/images/WhatsApp Image 2026-05-15 at 4.16.30 PM.jpeg"
+    ],
+    "colors": [
+      {
+        "name": "أحمر بالأسود",
+        "color": "#dc2626"
+      },
+      {
+        "name": "أصفر بالأسود",
+        "color": "#eab308"
+      }
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "كرة اليد",
+    "nameAr": "كرة يد ماركة ممتازة",
+    "price": 2800,
+    "image": "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-06 at 1.16.33 AM (1).jpeg",
+    "category": "handball",
+    "desc": "كرة يد بجودة ومواصفات ممتازة للتمارين والمباريات 🤾",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-06 at 1.16.33 AM (1).jpeg",
+      "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-06 at 1.16.33 AM.jpeg"
+    ],
+    "colors": [
+      {
+        "name": "أصفر",
+        "color": "#eab308"
+      },
+      {
+        "name": "أحمر",
+        "color": "#ef4444"
+      }
+    ],
+    "sizes": [
+      "Standard"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "تيشيرت رياضي رمادي",
+    "nameAr": "تيشيرت رياضي بطبعة تطريز",
+    "price": 2200,
+    "image": "https://reflaxball.netlify.app/images/P1_tshirt_graphic_gray.jpeg",
+    "category": "clothing",
+    "desc": "تيشيرت رياضي رمادي بطبعة تطريز مميزة، قماش خفيف وجاف 💨",
+    "colors": [
+      {
+        "name": "رمادي",
+        "color": "#555555"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "طقم Sanda Machi",
+    "nameAr": "طقم Sanda Machi رياضي",
+    "price": 3500,
+    "image": "https://reflaxball.netlify.app/images/P2_kungfu_set.jpeg",
+    "category": "clothing",
+    "desc": "طقم كونغ فو ووشو (جيليك + شورت) بقماش لامع خفيف الوزن 🥋",
+    "colors": [
+      {
+        "name": "أزرق",
+        "color": "#1d4ed8"
+      },
+      {
+        "name": "أسود",
+        "color": "#111111"
+      },
+      {
+        "name": "أحمر",
+        "color": "#ef4444"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "جيليك Under Armour",
+    "nameAr": "جيليك رياضي Under Armour",
+    "price": 2500,
+    "image": "https://reflaxball.netlify.app/images/P8_under_armour_singlet.jpeg",
+    "category": "clothing",
+    "desc": "جيليك رياضي Under Armour أبيض، قماش شبكي خفيف للتمارين الشديدة 🏃",
+    "colors": [
+      {
+        "name": "أبيض",
+        "color": "#ffffff"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 401,
+    "name": "بدلة مصارعة Wrestling",
+    "nameAr": "بدلة مصارعة احترافية",
+    "price": 3000,
+    "image": "https://reflaxball.netlify.app/images/P3_wrestling_singlet.jpeg",
+    "category": "judo_wrestling",
+    "desc": "بدلة مصارعة حرة احترافية مرنة وخفيفة بألوان متعددة 🤼",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/P3_wrestling_singlet.jpeg",
+      "https://reflaxball.netlify.app/images/P4_wrestling_singlet2.jpeg"
+    ],
+    "colors": [
+      {
+        "name": "أحمر",
+        "color": "#dc2626"
+      },
+      {
+        "name": "أزرق",
+        "color": "#1d4ed8"
+      },
+      {
+        "name": "أسود",
+        "color": "#111111"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 501,
+    "name": "طقم ملاكمة Adidas",
+    "nameAr": "طقم ملاكمة Adidas احترافي",
+    "price": 3500,
+    "image": "https://reflaxball.netlify.app/images/P7_adidas_boxing_set.jpeg",
+    "category": "boxing",
+    "desc": "طقم ملاكمة Adidas رسمي (جيليك + شورت) للبطولات، مواصفات عالمية 🥊",
+    "colors": [
+      {
+        "name": "أزرق",
+        "color": "#1d4ed8"
+      },
+      {
+        "name": "أحمر",
+        "color": "#ef4444"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 502,
+    "name": "تشكيلة قفازات ملاكمة",
+    "nameAr": "تشكيلة قفازات الملاكمة",
+    "price": 5000,
+    "image": "https://reflaxball.netlify.app/images/P6_boxing_collection.jpeg",
+    "category": "boxing",
+    "desc": "أحدث التشكيلات من قفازات الملاكمة المتنوعة من كبرى الماركات (Venum, Adidas, Everlast) 🥊",
+    "variants": [
+      {
+        "name": "أنواع وخيارات متعددة متوفرة",
+        "price": 3500,
+        "color": "#111111"
+      }
+    ]
+  },
+  {
+    "id": 601,
+    "name": "هودي UFC رياضي",
+    "nameAr": "تيشيرت هودي UFC قصير الأكمام بقلمونة",
+    "price": 2800,
+    "image": "https://reflaxball.netlify.app/images/P9_ufc_hoodie_black.jpeg",
+    "category": "mma",
+    "desc": "تيشيرت هودي UFC أسود قصير الأكمام مع قبعة للرأس وتغطية للوجه 💥",
+    "colors": [
+      {
+        "name": "أسود",
+        "color": "#111111"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": 616,
+    "name": "تيشيرت UFC رمادي",
+    "nameAr": "تيشيرت UFC رياضي رمادي",
+    "price": 2600,
+    "image": "https://reflaxball.netlify.app/images/P10_ufc_hoodie_gray.jpeg",
+    "category": "mma",
+    "desc": "تيشيرت UFC رمادي بتصميم خفيف ومميز للتدريب والمنافسات 💥",
+    "colors": [
+      {
+        "name": "رمادي",
+        "color": "#555555"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": 701,
+    "name": "تشكيلة أحذية كرة القدم",
+    "nameAr": "تشكيلة أحذية كرة القدم",
+    "price": 4500,
+    "image": "https://reflaxball.netlify.app/images/P5_football_collection.jpeg",
+    "category": "football",
+    "desc": "تشكيلة واسعة من أحذية كرة القدم المعشبة والصالات، بمقاسات وألوان متعددة ⚽",
+    "colors": [
+      {
+        "name": "أبيض",
+        "color": "#f8fafc"
+      },
+      {
+        "name": "بنفسجي",
+        "color": "#a855f7"
+      },
+      {
+        "name": "أسود وأبيض",
+        "color": "#475569"
+      },
+      {
+        "name": "أسود",
+        "color": "#000000"
+      },
+      {
+        "name": "ألوان أخرى وتصاميم مختلفة",
+        "color": "#3b82f6"
+      }
+    ],
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ]
+  },
+  {
+    "id": 702,
+    "name": "كرة قدم احترافية",
+    "nameAr": "كرة قدم للتدريب والمباريات",
+    "price": 3000,
+    "image": "https://reflaxball.netlify.app/images/football_product.png",
+    "category": "football",
+    "desc": "كرة قدم احترافية بتصميم عصري (High-end Soccer Ball) مثالية للعب على العشب ⚽",
+    "variants": [
+      {
+        "name": "أبيض وتفاصيل سوداء",
+        "price": 3000,
+        "color": "#f8fafc"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "name": "تيشيرت ضاغط (شعار أبيض)",
+    "nameAr": "تيشيرت ضاغط بتصميم عنكبوت أبيض",
+    "price": 2500,
+    "image": "https://reflaxball.netlify.app/images/P11_mma_shirt_white_worn.jpeg",
+    "category": "clothing",
+    "desc": "تيشيرت ضاغط رياضي (Rashguard) مثالي لتمارين القتال برسومات عنكبوت بيضاء 🕷️",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/P11_mma_shirt_white_worn.jpeg",
+      "https://reflaxball.netlify.app/images/P16_mma_shirt_white_flat.jpeg"
+    ],
+    "colors": [
+      {
+        "name": "أسود بشعار أبيض",
+        "color": "#f5f5f5"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "تيشيرت ضاغط (شعار أحمر)",
+    "nameAr": "تيشيرت ضاغط بتصميم عنكبوت أحمر",
+    "price": 2500,
+    "image": "https://reflaxball.netlify.app/images/P14_mma_shirt_red_worn.jpeg",
+    "category": "clothing",
+    "desc": "تيشيرت ضاغط رياضي مثالي لتمارين القتال برسومات عنكبوت حمراء 🕷️",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/P14_mma_shirt_red_worn.jpeg",
+      "https://reflaxball.netlify.app/images/P15_mma_shirt_red_flat.jpeg"
+    ],
+    "colors": [
+      {
+        "name": "أسود بشعار أحمر",
+        "color": "#ef4444"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "تيشيرت ضاغط أسود سادة",
+    "nameAr": "تيشيرت ضاغط أسود لإبراز العضلات",
+    "price": 2300,
+    "image": "https://reflaxball.netlify.app/images/P13_mma_shirt_worn_back.jpeg",
+    "category": "clothing",
+    "desc": "تيشيرت ضاغط أسود سادة، خامة ممتازة تلتصق بالجسم لتبرز العضلات 💪",
+    "colors": [
+      {
+        "name": "أسود سادة",
+        "color": "#111111"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "تيشيرت ضاغط بطبعة أفواه",
+    "nameAr": "تيشيرت ضاغط بتصميم أفواه متوحشة",
+    "price": 2500,
+    "image": "https://reflaxball.netlify.app/images/P17_mma_shirt_teeth_back.jpeg",
+    "category": "clothing",
+    "desc": "تيشيرت ضاغط رياضي بتصميم مميز على الظهر لأفواه متوحشة للمقاتلين الشرسين 🦷",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/P17_mma_shirt_teeth_back.jpeg",
+      "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-09 at 6.07.53 PM (1).jpeg"
+    ],
+    "colors": [
+      {
+        "name": "أسود بطبعة أفواه",
+        "color": "#111111"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "تيشيرت نايك أسود",
+    "nameAr": "تيشيرت نايك أساسي أسود",
+    "price": 2200,
+    "image": "https://reflaxball.netlify.app/images/P12_nike_shirt_black.jpeg",
+    "category": "clothing",
+    "desc": "تيشيرت نايك (Nike) رياضي أسود أساسي بخامة جافة ومريحة 🏃",
+    "colors": [
+      {
+        "name": "أسود",
+        "color": "#111111"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 402,
+    "name": "بدلة مصارعة Asics",
+    "nameAr": "بدلة مصارعة احترافية ماركة Asics",
+    "price": 3000,
+    "image": "https://reflaxball.netlify.app/images/P18_asics_singlet.jpeg",
+    "category": "judo_wrestling",
+    "desc": "بدلة مصارعة (Singlet) من Asics بقماش متين ومرن للمسابقات 🤼",
+    "colors": [
+      {
+        "name": "أحمر فاقع",
+        "color": "#ef4444"
+      },
+      {
+        "name": "أحمر داكن / عنابي",
+        "color": "#7f1d1d"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": 403,
+    "name": "بدلة مصارعة Rudis",
+    "nameAr": "بدلة مصارعة احترافية ماركة Rudis",
+    "price": 3500,
+    "image": "https://reflaxball.netlify.app/images/P19_rudis_singlet.jpeg",
+    "category": "judo_wrestling",
+    "desc": "بدلة مصارعة عالية الجودة من ماركة Rudis بألوان وتصاميم مموهة 💥",
+    "colors": [
+      {
+        "name": "أسود رمادي مموه",
+        "color": "#4b5563"
+      },
+      {
+        "name": "أزرق مموه",
+        "color": "#3b82f6"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 503,
+    "name": "قفازات ملاكمة Venum الأصفر",
+    "nameAr": "قفازات ملاكمة Venum أصفر وأسود",
+    "price": 5500,
+    "image": "https://reflaxball.netlify.app/images/P20_venum_gloves_yellow.jpeg",
+    "category": "boxing",
+    "desc": "قفازات Venum أصلية بتصميم فخم (أسود/أصفر) توفر حماية فائقة لليد 🥊",
+    "colors": [
+      {
+        "name": "أسود وأصفر",
+        "color": "#eab308"
+      }
+    ],
+    "sizes": [
+      "8oz",
+      "10oz",
+      "12oz",
+      "14oz",
+      "16oz"
+    ]
+  },
+  {
+    "id": 404,
+    "name": "حذاء مصارعة Asics معدل",
+    "nameAr": "حذاء مصارعة Asics",
+    "price": 5500,
+    "image": "https://reflaxball.netlify.app/images/P21_asics_wrestling_shoes.jpeg",
+    "category": "judo_wrestling",
+    "desc": "حذاء مخصص لرياضات المصارعة ماركة Asics يوفر ثبات لا مثيل له 🤼",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/P21_asics_wrestling_shoes.jpeg",
+      "https://reflaxball.netlify.app/images/P36_asics_shoes_blue.jpeg"
+    ],
+    "colors": [
+      {
+        "name": "أسود بشعار أبيض",
+        "color": "#111111"
+      },
+      {
+        "name": "أزرق فاقع بشعار أبيض",
+        "color": "#2563eb"
+      }
+    ],
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ]
+  },
+  {
+    "id": 405,
+    "name": "حذاء مصارعة Venum أسود",
+    "nameAr": "حذاء مصارعة Venum أسود",
+    "price": 7000,
+    "image": "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-09 at 6.07.49 PM.jpeg",
+    "category": "judo_wrestling",
+    "desc": "حذاء مصارعة احترافي لون أسود ماركة Venum بتصميم أنيق وثبات فائق على السجادة 🤼‍♂️",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-09 at 6.07.49 PM.jpeg",
+      "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-09 at 6.07.49 PM (1).jpeg"
+    ],
+    "colors": [
+      {
+        "name": "أسود",
+        "color": "#111111"
+      }
+    ],
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ]
+  },
+  {
+    "id": 406,
+    "name": "حذاء مصارعة Venum أبيض",
+    "nameAr": "حذاء مصارعة Venum أبيض",
+    "price": 7000,
+    "image": "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-09 at 6.07.50 PM.jpeg",
+    "category": "judo_wrestling",
+    "desc": "حذاء مصارعة Venum أبيض اللون بجودة احترافية عالية ومرونة توفر الثبات الأمثل 🤼‍♂️",
+    "colors": [
+      {
+        "name": "أبيض",
+        "color": "#f8fafc"
+      }
+    ],
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ]
+  },
+  {
+    "id": 408,
+    "name": "حذاء مصارعة أحمر",
+    "nameAr": "حذاء مصارعة احترافي أحمر",
+    "price": 4500,
+    "image": "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-09 at 6.07.53 PM.jpeg",
+    "category": "judo_wrestling",
+    "desc": "حذاء مصارعة أحمر احترافي يوفر أفضل أداء على البساط بتصميم قوي وعصري 🤼‍♂️",
+    "colors": [
+      {
+        "name": "أحمر",
+        "color": "#ef4444"
+      }
+    ],
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ]
+  },
+  {
+    "id": 504,
+    "name": "قفازات ملاكمة Venum متطورة",
+    "nameAr": "قفازات ملاكمة Venum بألوان متعددة",
+    "price": 5000,
+    "image": "https://reflaxball.netlify.app/images/P24_venum_gloves_black_gold.jpeg",
+    "category": "boxing",
+    "desc": "أحدث تصاميم قفازات Venum الأصلية (ألوان زاهية ونسخ Top Rank) لحماية قصوى 🥊",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/P22_venum_gloves_tr_blue.jpeg",
+      "https://reflaxball.netlify.app/images/P23_venum_gloves_blue_white.jpeg",
+      "https://reflaxball.netlify.app/images/P24_venum_gloves_black_gold.jpeg",
+      "https://reflaxball.netlify.app/images/P25_venum_gloves_tr_blue2.jpeg",
+      "https://reflaxball.netlify.app/images/P26_venum_gloves_red_white.jpeg",
+      "https://reflaxball.netlify.app/images/P27_venum_gloves_classic_black_gold.jpeg",
+      "https://reflaxball.netlify.app/images/P29_venum_gloves_stealth_black.jpeg",
+      "https://reflaxball.netlify.app/images/P30_venum_gloves_pink_white.jpeg",
+      "https://reflaxball.netlify.app/images/P33_venum_gloves_yellow2.jpeg"
+    ],
+    "colors": [
+      {
+        "name": "أزرق Top Rank",
+        "color": "#2563eb"
+      },
+      {
+        "name": "أزرق وشعار أبيض",
+        "color": "#3b82f6"
+      },
+      {
+        "name": "أسود وذهبي",
+        "color": "#ca8a04"
+      },
+      {
+        "name": "أحمر فاقع",
+        "color": "#ef4444"
+      },
+      {
+        "name": "أسود كلاسيك ذهبي",
+        "color": "#854d0e"
+      },
+      {
+        "name": "أسود بالكامل (شبح)",
+        "color": "#111111"
+      },
+      {
+        "name": "وردي زاهي",
+        "color": "#f472b6"
+      },
+      {
+        "name": "أسود وأصفر (تصميم חדש)",
+        "color": "#eab308"
+      }
+    ],
+    "sizes": [
+      "8oz",
+      "10oz",
+      "12oz",
+      "14oz",
+      "16oz"
+    ]
+  },
+  {
+    "id": 602,
+    "name": "طقم كيك بوكسينج Venum",
+    "nameAr": "طقم كيك بوكسينج مع واقي أسنان Venum ذهبي",
+    "price": 11500,
+    "isSpecialOffer": true,
+    "image": "https://reflaxball.netlify.app/images/P28_venum_protective_set.jpeg",
+    "category": "mma",
+    "desc": "طقم متكامل من ماركة Venum يشمل واقي قصبة الساق، خوذة، وواقي أسنان باللون الذهبي 🛡️"
+  },
+  {
+    "id": 603,
+    "name": "طقم حماية كامل MMA",
+    "nameAr": "طقم حماية شامل ممتاز",
+    "price": 11500,
+    "isSpecialOffer": true,
+    "image": "https://reflaxball.netlify.app/images/P49_batch5.jpeg",
+    "category": "mma",
+    "desc": "طقم حماية كامل ومتين للتمارين الشاملة والمكثفة في الفنون القتالية 🛡️"
+  },
+  {
+    "id": 604,
+    "name": "طقم حماية متقدم مموه",
+    "nameAr": "واقي حماية بتصميم مموه",
+    "price": 11500,
+    "isSpecialOffer": true,
+    "image": "https://reflaxball.netlify.app/images/P47_batch5.jpeg",
+    "category": "mma",
+    "desc": "طقم حماية مموه متطور يوفر أقصى درجات الحماية أثناء الاشتباك 🛡️"
+  },
+  {
+    "id": 605,
+    "name": "تجميعة كيك بوكسينج شاملة",
+    "nameAr": "تجميعة كيك بوكسينج شاملة وكاملة",
+    "price": 6500,
+    "image": "https://reflaxball.netlify.app/images/P44_batch5.jpeg",
+    "category": "boxing",
+    "desc": "تجميعة متينة جداً تتحمل أقصى الضربات في والكيك بوكسينج 🛡️"
+  },
+  {
+    "id": 606,
+    "name": "تجميعة للكيك بوكسينج",
+    "nameAr": "تجميعة للكيك بوكسينج واقي اليدين والقدمين",
+    "price": 6500,
+    "image": "https://reflaxball.netlify.app/images/P41_batch5.jpeg",
+    "category": "boxing",
+    "desc": "تجميعة رائعة بماركة CEILING الأصلية خاصة بحماية اليدين والقدمين 🛡️"
+  },
+  {
+    "id": 607,
+    "name": "واقي قصبة الساق Venum",
+    "nameAr": "واقي قصبة الساق Venum أسود وذهبي",
+    "price": 11500,
+    "isSpecialOffer": true,
+    "image": "https://reflaxball.netlify.app/images/P31_venum_protect_gold.jpeg",
+    "category": "mma",
+    "desc": "واقي قصبة قدم Venum أصلي بتصميم احترافي (أسود/ذهبي) لحماية مثالية للساق 🛡️"
+  },
+  {
+    "id": 609,
+    "name": "واقي قصبة الساق CEILING",
+    "nameAr": "واقي ساق CEILING أسود",
+    "price": 11500,
+    "isSpecialOffer": true,
+    "image": "https://reflaxball.netlify.app/images/P34_ceiling_protect.jpeg",
+    "category": "mma",
+    "desc": "واقي قصبة ساق ماركة CEILING بلون أسود أنيق ومريح في الارتداء 🛡️"
+  },
+  {
+    "id": 611,
+    "name": "واقي ساق Tiger بخياطة",
+    "nameAr": "واقي ساق Tiger بتصميم جديد",
+    "price": 11500,
+    "isSpecialOffer": true,
+    "image": "https://reflaxball.netlify.app/images/P37_tiger_protect2.jpeg",
+    "category": "mma",
+    "desc": "واقي ساق Tiger Muay Thai بتصميم مرن وخياطة متقاربة تضمن ثباته 🛡️"
+  },
+  {
+    "id": 613,
+    "name": "مجموعة واقيات مختلطة",
+    "nameAr": "مجموعة واقيات حماية مختلطة",
+    "price": 11500,
+    "isSpecialOffer": true,
+    "image": "https://reflaxball.netlify.app/images/P39_mixed_protect.jpeg",
+    "category": "mma",
+    "desc": "مجموعة واقيات متنوعة للفنون القتالية المختلطة بمتانة فائقة ووزن خفيف 🛡️",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/P39_mixed_protect.jpeg",
+      "https://reflaxball.netlify.app/images/P32_tiger_protect.jpeg",
+      "https://reflaxball.netlify.app/images/P35_ceiling_protect2.jpeg",
+      "https://reflaxball.netlify.app/images/P38_venum_protect_gold2.jpeg"
+    ]
+  },
+  {
+    "id": 614,
+    "name": "واقي ساق Venum مموه",
+    "nameAr": "واقي ساق Venum مموه عسكري",
+    "price": 11500,
+    "isSpecialOffer": true,
+    "image": "https://reflaxball.netlify.app/images/P40_venum_protect_camo2.jpeg",
+    "category": "mma",
+    "desc": "واقي قصبة الساق بتصميم التمويه العسكري (Camo) لأناقة وصلابة لا تُقهر 🛡️"
+  },
+  {
+    "id": 505,
+    "name": "قفازات ملاكمة CEILING",
+    "nameAr": "قفازات ملاكمة CEILING احترافية",
+    "price": 5000,
+    "image": "https://reflaxball.netlify.app/images/P42_batch5.jpeg",
+    "category": "boxing",
+    "desc": "قفازات ملاكمة احترافية من ماركة CEILING (Legacy & Innovation)، بتصميم مريح وحماية قوية 🥊",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/P42_batch5.jpeg",
+      "https://reflaxball.netlify.app/images/P45_batch5.jpeg",
+      "https://reflaxball.netlify.app/images/P50_batch5.jpeg"
+    ],
+    "colors": [
+      {
+        "name": "أسود مطفي",
+        "color": "#1a1a1a"
+      },
+      {
+        "name": "أخضر زيتوني",
+        "color": "#4d7c5b"
+      }
+    ],
+    "sizes": [
+      "8oz",
+      "10oz",
+      "12oz",
+      "14oz",
+      "16oz"
+    ]
+  },
+  {
+    "id": 506,
+    "name": "وسادات تدريب RDX",
+    "nameAr": "أهداف تدريب ملاكمة RDX",
+    "price": 4500,
+    "image": "https://reflaxball.netlify.app/images/P43_batch5.jpeg",
+    "category": "boxing",
+    "desc": "أهداف ملاكمة وبادات تدريب (Focus Mitts) ماركة RDX لاستقبال اللكمات، مثالية لتدريب السرعة والدقة 🎯",
+    "variants": [
+      {
+        "name": "أسود مع خط ذهبي",
+        "price": 4500,
+        "color": "#ca8a04"
+      }
+    ]
+  },
+  {
+    "id": 509,
+    "name": "بوندان يد احترافي",
+    "nameAr": "بوندان يد احترافي",
+    "price": 1500,
+    "image": "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-09 at 6.07.52 PM.jpeg",
+    "category": "boxing",
+    "desc": "بوندان (لفافات) يد احترافي للملاكمة والفنون القتالية، يوفر حماية تامة للمعصم واليد. طول 1 متر 🥊",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-09 at 6.07.52 PM.jpeg",
+      "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-09 at 6.07.52 PM (1).jpeg",
+      "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-09 at 6.07.51 PM.jpeg"
+    ],
+    "colors": [
+      {
+        "name": "أحمر",
+        "color": "#ef4444"
+      },
+      {
+        "name": "أزرق",
+        "color": "#1d4ed8"
+      },
+      {
+        "name": "أسود",
+        "color": "#111111"
+      }
+    ],
+    "sizes": [
+      "1m"
+    ]
+  },
+  {
+    "id": 508,
+    "name": "بوندان يد احترافي",
+    "nameAr": "بوندان يد احترافي",
+    "price": 1500,
+    "image": "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-09 at 6.07.52 PM.jpeg",
+    "category": "mma",
+    "desc": "بوندان (لفافات) يد احترافي للفنون القتالية والملاكمة، يوفر حماية تامة للمعصم واليد. طول 1 متر 🥊",
+    "gallery": [
+      "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-09 at 6.07.52 PM.jpeg",
+      "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-09 at 6.07.52 PM (1).jpeg",
+      "https://reflaxball.netlify.app/images/WhatsApp Image 2026-04-09 at 6.07.51 PM.jpeg"
+    ],
+    "colors": [
+      {
+        "name": "أحمر",
+        "color": "#ef4444"
+      },
+      {
+        "name": "أزرق",
+        "color": "#1d4ed8"
+      },
+      {
+        "name": "أسود",
+        "color": "#111111"
+      }
+    ],
+    "sizes": [
+      "1m"
+    ]
+  }
+]
